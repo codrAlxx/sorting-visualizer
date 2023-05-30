@@ -10,7 +10,3 @@ Built with React.js, TypeScript, and TailwindCSS.
 - `git clone` this repository
 - run `yarn` or `npm install`
 - run `yarn start` or `npm start`
-
-## NOTE:
-
-**If you came here from YouTube**, please note that I did some minor refactoring and orginization. I did not include this process in the video for the sake of time.
